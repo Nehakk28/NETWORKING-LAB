@@ -4,11 +4,11 @@ This repository contains implementations of various networking algorithms and pr
 
 Contents:
 
-1.GO_BACK_N/ – Implementation of Go-Back-N ARQ protocol.
+1.GO_BACK_N/ – Simulation of Sliding window flow control for Go Back N ARQ protocol.
 
-2.SELECTIVE_REPEAT/ – Implementation of Selective Repeat ARQ protocol.
+2.SELECTIVE_REPEAT/ – Simulation of Sliding window flow control for Selective Repeat ARQ protocol.
 
-3.STOP_AND_WAIT/ – Stop and Wait protocol client-server code.
+3.STOP_AND_WAIT/ – Simulation of Sliding window flow control for Stop and Wait protocol.
 
 4.TCP/ – Basic TCP client-server communication.
 
@@ -18,7 +18,9 @@ Contents:
 
 7.LINK_STATE_ROUTING.c – Simulation of the Link State Routing algorithm.
 
-8.LEAKY_BUCKET_ALGORITHM.c – Implementation of the Leaky Bucket algorithm for traffic shaping.
+8.LEAKY_BUCKET_ALGORITHM.c – Implementation Congestion control using Leaky Bucket algorithm.
+
+9.FTP/ - Implementation of File Transfer Protocol.
 
 
 
