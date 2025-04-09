@@ -4,15 +4,15 @@ This repository contains implementations of various networking algorithms and pr
 
 Contents:
 
-1.GO_BACK_N/ – Simulation of Sliding window flow control for Go Back N ARQ protocol.
+1..TCP/ – Basic TCP client-server communication.
 
-2.SELECTIVE_REPEAT/ – Simulation of Sliding window flow control for Selective Repeat ARQ protocol.
+2..UDP/ – Basic UDP client-server communication.
 
 3.STOP_AND_WAIT/ – Simulation of Sliding window flow control for Stop and Wait protocol.
 
-4.TCP/ – Basic TCP client-server communication.
+4.GO_BACK_N/ – Simulation of Sliding window flow control for Go Back N ARQ protocol.
 
-5.UDP/ – Basic UDP client-server communication.
+5.SELECTIVE_REPEAT/ – Simulation of Sliding window flow control for Selective Repeat ARQ protocol.
 
 6.DISTANCE_VECTOR_ROUTING.c – Simulation of the Distance Vector Routing algorithm.
 
