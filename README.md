@@ -1,4 +1,4 @@
-CSL-332-NETWORKING-LAB
+NETWORKING-LAB
 
 This repository contains implementations of various networking algorithms and protocols as part of the CSL-332 Networking Lab course. The programs are written in C.
 
